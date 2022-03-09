@@ -12,3 +12,7 @@
     background-color: rgb(11, 57, 84);
     color: rgb(255,255,204);
 }
+
+ol.list1 {
+    list-style-type: circle;
+}

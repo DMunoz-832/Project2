@@ -16,3 +16,11 @@
 ol.list1 {
     list-style-type: circle;
 }
+.gradient-dark-linear {
+    background-image: linear-gradient(rgba((125, 18, 36, 0.25), rgba(238, 119, 119, 0));
+}
+
+.body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}

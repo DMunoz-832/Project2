@@ -1,12 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
+  <style>
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+  }
+  
+  li {
+      float: left;
+  }
+  
+  li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+      background-color: #111;
+  }
+  
+  .active {
+      background-color: #04AA6D;
+  }
+  </style>
   <head>
     <meta charset="utf-8"/>
     <title>Technical Resume</title>
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-    <element class="gradient-dark-linear">
+    <div class="gradient-dark-linear">
     <nav id="navigation">
       <ul>	
         <li><a href="index.html">Home Page</a></li>
@@ -21,6 +50,11 @@
       <li>dmunoz9@hawk.iit.edu</li>
       <li><a href="https://bit.ly/danielaMunoz-LinkedIn">LinkedIn</a></li>
       <li>(708)000-000</li>
+    </ul>
+    <ul class="a">
+      <li>Coffee</li>
+      <li>Tea</li>
+      <li>Coca Cola</li>
     </ul>
     <h3>Education</h3>
     <p>Illinois Institute of Technology</p>
@@ -55,6 +89,6 @@
 	allowfullscreen></iframe>
 	<h3>Download Resume</h3>
 	<p>You can download a PDF of my resume here:<a href="DanielaMunozTech.Resume.pdf">Resume</a></p>
-  </element>
+    </div>
   </body>
 </html>

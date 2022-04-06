@@ -87,10 +87,6 @@
     object-fit: none;  
     object-position: center top;  
     }  
-
-    ul.a {
-        list-style-type: circle;
-    }
     
     /*vertical line between text*/
     .vertical-line{

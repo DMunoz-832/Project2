@@ -26,46 +26,19 @@
     </div>
   </div>
   <div class="main">
-    <h2>Daniela Munoz</h2>
-    <h3>Contact Information</h3>
-    <span class="vertical-line">dmunoz9@hawk.iit.edu</span>
-    <span class="vertical-line">Chicago, IL</span>
-    <span class="vertical-line">708-XXX-XXXX</span>
-    <span class="vertical-line"><a href="https://bit.ly/danielaMunoz-LinkedIn">LinkedIn</a></span>
-
-    <h3>Education</h3>
-    <p>Illinois Institute of Technology</p>
-	<p>Bachelor of Science in Information Technology & Management</p>
-	<p>August 2021 - May 2025</p>
-	<p>GPA: 4.0</p>
-	<h4>Significant Courses</h4>
-	<p>Introduction to Data Networks and the Internet, Introduction to Open Source Application Development, 
-		Data Modeling and Applications, Introduction to Software Development</p>
-	<h3>Programming Languages</h3>
-	<p>JavaScript, Java, Python, HTML & CSS, and C++</p>
-    <h3>Accomplishments</h3>
-    <ul
-    <li>Grainger Computing Innovation Semi-Finalist</li>
-    <li>Dean's List Fall 2021</li>
-    <li>Google Scholar Computer Science Summer Institute (CSSI)</li>
-    <li>MTA: Introduction to Programming using  JavaScript</li>
-  </ul>
-<h2>Experience</h2>
-<p>IIT Motor sports (SAE)</p>
-<ul>
-  <li>Use C++ and range-specific sensors to create a warning system to alert the driver of nearby vehicles.</li>
-  <li>Report to software lead bi-weekly for project updates. </li>
-</ul>
-<p>TadHack <a href="https://youtu.be/WDgRcC-U_4w">(Text2Buy)</a></p>
-<ul>
-  <li>Worked with teammate to develop and design a potential solution to e-commerce companies large profit loss to cart abandonment under 48 hours.</li>
-  <li>Used Java to develop an app-like program that uses push notifications to remind users of their cart items.</li>
-</ul>
-<iframe src="https://www.youtube.com/embed/WDgRcC-U_4w" title="YouTube video player" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-<h3>Download Resume</h3>
-<p>You can download a PDF of my resume here:<a href="DanielaMunozTech.Resume.pdf">Resume</a></p>
+    <h1>Meme Page: My favorite memes</h1>
+    <h2>Spanish memes</h2>
+    <img src="images/ano.jpeg" alt="sweating">
+    <p>How my Spanish teacher taught us the importance of tildes.</p>
+    <img src="images/espanishAccent.jpeg" alt="accent">
+    <p>I don't have an accent but I found the format funny.</p>
+    <h2>Normal memes</h2>
+    <img src="images/cookedChicken.jpg" alt="chicken">
+    <p>No Paco is not food.</p>
+    <img src="images/racconStruggles.jpg" alt="raccoon">
+    <p>How life be like right now</p>
+    <img src="images/the_rock.jpg" alt="rock">
+    <p>Rock</p>
   </div>
 </div>
 </body>

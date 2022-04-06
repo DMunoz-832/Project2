@@ -38,7 +38,7 @@
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 20px;
+    padding: 14px 150px;
     text-decoration: none;
   }
   
@@ -94,4 +94,9 @@
       border-left: 2px solid #ccc;
       margin: 0 00px;
       height: 15px;
+  }
+
+  /*lists style*/
+  ul.a {
+    list-style-type: circle;
   }

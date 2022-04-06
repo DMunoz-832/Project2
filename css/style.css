@@ -21,7 +21,7 @@
     color: white;
   }
   
-  /* Increase the font size of the heading */
+  /* Bigger font size for heading */
   .header h1 {
     font-size: 40px;
   }
@@ -77,20 +77,6 @@
     background-color: #a37967f3;
     padding: 20px;
   }
-  
-  /* Fake image, just for this example */
-  .fakeimg {
-    background-color: #aaa;
-    width: 100%;
-    padding: 20px;
-  }
-  
-  /* Footer */
-  .footer {
-    padding: 20px;
-    text-align: center;
-    background: #ddd;
-  }
 
   /*centering images*/
   .center {  
@@ -105,3 +91,11 @@
     ul.a {
         list-style-type: circle;
     }
+    
+    /*vertical line between text*/
+    .vertical-line{
+      display: inline-block;
+      border-left: 2px solid #ccc;
+      margin: 0 00px;
+      height: 15px;
+  }
